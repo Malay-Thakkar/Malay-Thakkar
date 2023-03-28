@@ -30,7 +30,9 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=malay-thakkar&theme=onedark" width="100%">
 
-<img src="https://github-readme-stats-plum-eta.vercel.app/api?username=malay-thakkar&show_icons=true&theme=tokyonight" width="54.4%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malay-thakkar&layout=compact&theme=tokyonight" width="45.6%">
+<img src="https://github-readme-stats-plum-eta.vercel.app/api?username=malay-thakkar&show_icons=true&theme=tokyonight" width="54.6%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malay-thakkar&layout=compact&show_icons=true&theme=radical" width="45.4%">
+
+
 <!-- --------------- -->
 
 
